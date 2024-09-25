@@ -1,8 +1,7 @@
-# AUTOSUPERSAMPLING
-MetaQuest AutoSuperSampling ajusta automaticamente o nível de supersampling de jogos PCVR, para headsets MetaQuest com base no desempenho do sistema. Melhora a qualidade visual e fluidez dos jogos em realidade virtual, garantindo a melhor experiência sem comprometer a performance. Compatível com MetaQuest/Quest 2.
+
 # MetaQuest AutoSuperSampling
 
-MetaQuest AutoSuperSampling é uma ferramenta que ajusta automaticamente o nível de supersampling para headsets MetaQuest (Oculus Quest) com base no desempenho do sistema. O objetivo é otimizar a qualidade visual e a fluidez dos jogos em realidade virtual, garantindo a melhor experiência possível sem comprometer a performance.
+MetaQuest AutoSuperSampling é uma ferramenta que ajusta automaticamente o nível de supersampling de jogos PCVR para headsets MetaQuest (Oculus Quest) com base no desempenho do sistema. O objetivo é otimizar a qualidade visual e a fluidez dos jogos em realidade virtual, garantindo a melhor experiência possível sem comprometer a performance.
 
 ## Funcionalidades
 
