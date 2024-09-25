@@ -1,0 +1,29 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Config files
+.env
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MetaQuest AutoSuperSampling specific
+*.exe
+*.dll
+*.apk
+*.zip
+*.7z
+*.tar
+*.gz
+logs/
+backup/
